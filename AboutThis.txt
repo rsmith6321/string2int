@@ -1,0 +1,6 @@
+Hi,
+
+I have implemented this challenge by using java language on eclipse IDE and I have added .jar file to let tester can test the output by using terminal or cmd.
+Perhaps if you wanted, you can also test and take a look for my source code in “StringToInt” folder too.
+
+Thank you :)
