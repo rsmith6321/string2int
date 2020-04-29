@@ -31,7 +31,7 @@ public class main {
 		
 		
 		catch(Exception e){
-			System.out.println("Your input has out of Int's range.");
+			System.out.println("Your input is out of Int's range.");
 		}
 		
 
