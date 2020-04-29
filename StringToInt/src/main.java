@@ -17,7 +17,11 @@ public class main {
 		}
 		
 		
-		if(getDigit!="") {
+		if(Long.parseLong(getDigit)>2147483647) {
+			System.out.println("Your input has too much digit.");
+		}
+		
+		else if(getDigit!="") {
 			int output=Integer.parseInt(getDigit);
 			System.out.println("Your output: "+output);
 		}
